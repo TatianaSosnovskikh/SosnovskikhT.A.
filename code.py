@@ -1,4 +1,4 @@
 print('Привет, друг!')
 print('И тебе привет)')
 a, b = map(int, input('Какие 2 целых числа твои любимые?\n').split())
-print(a * b)
+print(a / b)
